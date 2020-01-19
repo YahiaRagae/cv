@@ -1,0 +1,170 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yahia Ragae
+    tagline: #Senior iOS Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: 
+    phone: 
+    website: #blog.webjeda.com #do not add http://
+    linkedin: 
+    github: #sharu725
+    gitlab:
+    bitbucket:
+    twitter: #'@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    me:
+      - name: Senior iOS Developer
+      - item: <strong>Resident Visa</strong>
+
+    languages:
+      - idiom: Arabic
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    areaOfExpertise:
+      - name: AREA OF EXPERTISE
+      - item: <strong>iOS / Swift / Objective-c</strong><br>I have  +9 years of experience in iOS using Swift and Objective-c with more than 17 application deployed on App Store.
+        link:
+
+    sectionSkills:
+      - name: Skills
+      - item: iOS , Swift , Objective-C , Cocoa , CI/CD ,  Sqlite , Core Data , RxSwift , RxCocoa ,cocoapods , Unit Testing , SVN , Git , Agile , Scrum , TFS , MVC , MVVM , MVP , Facade , Repository , Firebase , Sqlite , App Store  , Alamofire , SwiftyJSON , Gson , APNS , FCM , Push Notification , fastlane , JSON , Apple Watch , problem-solving , Java , Kotlin , Android .
+        link:
+
+    hobbies:
+      - name: Hobbies
+      - item: Swimming , Camping and fishing.
+        link:
+
+career-profile:
+    title: PROFESSIONAL PROFILE    
+    summary: |
+      A self-motivated <strong>iOS developer</strong> who started working within mobile development since the ancient ages of <strong>non-ARC till</strong> the new <strong>Dark Mode</strong>. Looking to make effective use of current skills, experience, and  expertise within an organization that can offer further career development opportunities.
+ 
+
+experiences:
+    - role: Senior iOS Developer
+      time: 10/2018 - Present
+      company: Plexure LTD, Auckland, NZ
+      companyLink : https://www.plexure.com
+      details: |
+        Working in <strong><a href="https://www.plexure.com" target="_blank"  >Plexure</a></strong> is such fun!! I spent my time there working on <strong>two main</strong> projects :
+          <br><br> - <strong><a href="https://apps.apple.com/us/app/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC/id1315442352?ls=1" target="_blank"  >Mobile Order and Pay (MOP) for Mcdonalds Japan</a> (McD Japan)</strong>: A product for fast food restaurants allows users to order and pay from their mobile (<strong>iOS/Android</strong>).
+          - <strong>MOP</strong> used in <strong>McD Japan</strong> allowing users to dine in, take away or drive-thru. it supports English and Japanese and has multiple payment methods like <strong>Credit Card</strong>, <strong>Line Pay</strong>, <strong>Docomo</strong>, <strong>Rakuten via <strong>VeriTrans</strong>.
+          - The application was built in 2 parts `App` and `SDK`, I participated in building the iOS application using <strong>Swift</strong> and the Android SDK using <strong>Kotlin</strong>.
+
+          <br>- <strong>Plexure SDK</strong> : An SDK to support Plexure clients , e.g., <strong>McD World Wide</strong>, <strong>White Castle in the US</strong>, <strong>IKEA in KSA</strong> and <strong>7-Eleven in Australia</strong> to use the Loyalty platform and deliver personalized offers, ads, and promotions to more than <strong>100 million</strong> end-user depending on there preference and location.
+          - Adding new features/Fixes using <strong>Objective-c</strong> and <strong>Java</strong>.
+          - Supporting customer tickets and dealing with clients from <strong>all over the world</strong> with <strong>different languages</strong> and <strong>timezones</strong>.
+          - Releasing fully tested binaries and deploy them as <strong>Pods</strong> and <strong>dynamic/static</strong> libraries.
+
+    - role: Senior iOS Developer
+      time: 05/2016 - 09/2018
+      company: Saudi Telecom Company ( STC ), Riyadh, Saudi Arabia
+      companyLink : http://www.stc.com.sa
+      details: |
+        I have been outsourced to STC via multiple companies, working on <strong>2</strong> main projects:
+          - <a href="https://apps.apple.com/us/app/mystc-app/id808807355" target="_blank"  >MySTC App</a> which is used by more than <strong>5 million active users</strong>. The App allows users to manage their subscriptions, buy new devices, recharge their credit using Credit Cards and other local payment methods, manage roaming settings in Saudi and locate physical stores.
+          - Internal application for <strong>executives</strong> which shows charts and analysis about the performance of different business units. The application distributed in-house using the <strong>Apple Developer Enterprise Program</strong> and for <strong>Android</strong>, the users were able to download the app directly from our host.
+
+    - role: Senior iOS Developer
+      time: 01/2015 - 04/2016
+      company: Ministry of Education ( MOE ), Riyadh, Saudi Arabia
+      companyLink : https://www.moe.gov.sa
+      details: |
+        While being outsourced to the Ministry of Education ( MOE ) I have worked as a part of three iOS developers on those applications:
+          - <a href="https://apps.apple.com/sa/app/sfyr-altlbt/id880089101" target="_blank"  >SafeerStudent</a>  : Which used by more than  100,000 Saudi students who enrolled in and scholarship around the world. Safeer achieved The best e-government mobile application in Arab and Gulf countries in 2015. 
+          - <a href="https://apps.apple.com/us/app/tslym-almqrrat/id1052731858" target="_blank"  >Books Delivery</a>  : It's a delivery system for books between the printing services and the schools.
+          - <a href="https://apps.apple.com/sa/app/twasl-wzart-alt-lym/id1071815086" target="_blank"  >Tawasoul</a>  : It's a governmental service that receives any complaint about the educational system or schools and delivers it to the team to get it solved.
+
+    - role: Senior iOS Developer
+      time: 01/2013 - 12/2014
+      company: MIMV LLC, Al Rehab, Egypt
+      companyLink : http://www.mimv.co
+      details: |
+        Applications I developed as apart of the team :
+          - <a href="https://apps.apple.com/app/arabic-dictionary-qamws-ay/id485534181" target="_blank"  >Arabic Dictionary ( Bilingual )</a>
+          - <a href="https://apps.apple.com/app/alahadyth-ghyr-alshyht-almntshrt/id419746550" target="_blank"  >Weak Hadiths</a>
+          - <a href="https://apps.apple.com/app/arabic-names-alasma/id405843449"  >Arabic Names ( Bilingual )</a>
+          - <a href="https://apps.apple.com/app/arabic-speaking-clock-alsa/id466715015" target="_blank"  >Arabic Clock ( Bilingual )</a>
+          - <a href="https://apps.apple.com/app/quote-aqtbas/id437140234" target="_blank"  >Quotes</a>
+          - <a href="https://apps.apple.com/app/qibla-ar-alqblt-fy-alwaq-alaftrady/id509064341" target="_blank"  >Qibla Ar ( Bilingual )</a>
+          - <a href="https://apps.apple.com/app/al-multaqa-almltqy-alrmdany/id542473901" target="_blank"  >Al Multaqa ( Bilingual )</a>
+
+    - role: Mobile Application Developer
+      time: 08/2009 - 12/2012
+      company: CodWaza, Remotely from Egypt
+      companyLink : 
+      details: |
+        Applications I developed as apart of the team :
+          - Qanaaty : Android / iOS ( Bilingual )
+          - IECHE 2014 : Android / iOS / BB10 ( Bilingual )
+          - iWasset : Android / iOS
+          - Exhibition Kuwait : iOS
+          - Gitex dubai 2010
+projects:
+    title: HONORS AND AWARDS
+    intro: >
+    assignments:
+      - title: 1st Place winner in TIEC Hackathon for Egyptian INAR tablet
+        link:
+        tagline: We participated in the event hack4inar organized by TIEC in Egypt, and we got the 1st place winner for our android application " Hayah " for tablets.
+
+      - title: 5th Place winner of Samsung Entaleq 2013 for our Application Qibla Ar
+        link: 
+        tagline:
+
+      - title: The first place-prize for "Safeer Student" The best e-government mobile application in Arab and gulf countries 
+        link:
+        tagline: "Reference: <a href='http://www.menofia.edu.eg' target='_blank'  >http://www.alriyadh.com/1019713</a>" 
+
+publications:
+    title: Education
+    intro: 
+    papers:
+      - title: <strong>Computer Science Preliminary studies for master’s degree</strong>.
+        authors: <a href='http://www.menofia.edu.eg' target='_blank'>Menoafia University, Egypt</a>
+        conference: 01/2010 - 07/2011
+
+      - title: <strong>Bachelor of Computer Science & Pure Mathematics</strong>, <br>Computer Science & Pure Mathematics.
+        authors: <a href='http://www.menofia.edu.eg' target='_blank'>Menoafia University, Egypt</a>
+        conference: 09/2005 - 07/2009
+
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#   toolset:
+#     - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#       level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#       level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

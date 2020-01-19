@@ -1,0 +1,22 @@
+{% assign section = site.data.data.sidebar.areaOfExpertise %}
+{% if section %}
+<div class="section-container container-block">
+
+  <h2 class="container-block-title">
+    {{ section[0].name }}
+  </h2>
+
+  <ul class="list-unstyled section-list">
+    {% for item in section %}
+
+      {% if item.link %}
+      <li><a href="{{ item.link }}">{{ item.item }}</a></li>
+      {% else %}
+      <li>{{ item.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//section-->
+{% endif %}
