@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Yahia Ragae
-    tagline: #Senior iOS Developer
+    tagline: Principal Mobile Engineer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 
-    phone: 
+    email: yahia@mrxprt.com
+    phone: #027 616 9 603
     website: #blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin: YahiaRagae
     github: #sharu725
     gitlab:
     bitbucket:
@@ -25,8 +25,8 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     me:
-      - name: Senior iOS Developer
-      - item: <strong>Resident Visa</strong>
+      #- name: Senior iOS Developer
+      - item: <strong>Resident Visa</strong><br>35 Ellis Avenue, Mt Roskill<br><a href="http://linkedin.com/in/yahiaragae/" target="_blank">linkedin.com/in/yahiaragae/</a>
 
     languages:
       - idiom: Arabic
@@ -35,42 +35,41 @@ sidebar:
       - idiom: English
         level: Professional
 
-    areaOfExpertise:
-      - name: AREA OF EXPERTISE
-      - item: <strong>iOS / Swift / Objective-c</strong><br>I have  +9 years of experience in iOS using Swift and Objective-c with more than 17 application deployed on App Store.
-        link:
-
     sectionSkills:
       - name: Skills
-      - item: iOS , Swift , Objective-C , Cocoa , CI/CD ,  Sqlite , Core Data , RxSwift , RxCocoa ,cocoapods , Unit Testing , SVN , Git , Agile , Scrum , TFS , MVC , MVVM , MVP , Facade , Repository , Firebase , Sqlite , App Store  , Alamofire , SwiftyJSON , Gson , APNS , FCM , Push Notification , fastlane , JSON , Apple Watch , problem-solving , Java , Kotlin , Android .
+      - item: iOS , Swift , Objective-C , Cocoa , CI/CD , Azure Pipelines, Sqlite , Core Data , RxSwift , RxCocoa ,cocoapods , Unit Testing , Git , Agile , Scrum , TFS , MVC , MVVM , MVP , Facade , Repository , Firebase , Sqlite , App Store , Alamofire , Codable , APNS , FCM , Push Notification , fastlane , JSON , Apple Watch , problem-solving , Java , Kotlin , Android , Dart , Flutter .
         link:
 
     hobbies:
       - name: Hobbies
-      - item: Swimming , Camping and fishing.
+      - item: Swimming , Camping , fishing , Also I have a <a href="https://youtube.com/c/YahiaRagae" target="_blank">Youtube Channel</a> .
         link:
 
 career-profile:
     title: PROFESSIONAL PROFILE    
     summary: |
-      A self-motivated <strong>iOS developer</strong> who started working within mobile development since the ancient ages of <strong>non-ARC till</strong> the new <strong>Dark Mode</strong>. Looking to make effective use of current skills, experience, and  expertise within an organization that can offer further career development opportunities.
+      A self-motivated <strong>Mobile Engineer</strong> who can <strong>walk the talk</strong>, started working with `iOS` since `2010` , `Android` since `2009` and `Flutter` since `2020`, Building `mobile` azure devops `pipelines` since `2019`. 
+      <br><br>Working with <strong>different sized</strong> companies starting from <strong>startups</strong> with <strong>5 employees</strong> till <strong>telecommunication</strong> companies with more than <strong>16K employees</strong>, Looking to make effective use of current skills, experience, and expertise within an organization that can offer further career development opportunities.
  
 
 experiences:
-    - role: Senior iOS Developer
+    - role: Principal Mobile Engineer <small>(March 2020 - Present)</small> <br> Senior iOS Developer  <small>(Oct 2018 - Feb 2020)</small>
       time: 10/2018 - Present
       company: Plexure LTD, Auckland, NZ
       companyLink : https://www.plexure.com
       details: |
-        Working in <strong><a href="https://www.plexure.com" target="_blank"  >Plexure</a></strong> is such fun!! I spent my time there working on <strong>two main</strong> projects :
-          <br><br> - <strong><a href="https://apps.apple.com/us/app/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC/id1315442352?ls=1" target="_blank"  >Mobile Order and Pay (MOP) for Mcdonalds Japan</a> (McD Japan)</strong>: A product for fast food restaurants allows users to order and pay from their mobile (<strong>iOS/Android</strong>).
+        Working in <strong><a href="https://www.plexure.com" target="_blank"  >Plexure</a></strong> is such fun!! I spent my time there working on <strong>three main</strong> projects :
+          <br><br>`1-` <strong><a href="https://bit.ly/39uwegn" target="_blank"  >Mobile Order and Pay (MOP) for Mcdonalds Japan</a> (McD Japan)</strong>: A product for fast food restaurants allows users to order and pay from their mobile (<strong>iOS/Android</strong>).
           - <strong>MOP</strong> used in <strong>McD Japan</strong> allowing users to dine in, take away or drive-thru. it supports English and Japanese and has multiple payment methods like <strong>Credit Card</strong>, <strong>Line Pay</strong>, <strong>Docomo</strong>, <strong>Rakuten via <strong>VeriTrans</strong>.
-          - The application was built in 2 parts `App` and `SDK`, I participated in building the iOS application using <strong>Swift</strong> and the Android SDK using <strong>Kotlin</strong>.
+          - The application was built in 2 parts `App` and `SDK`, I participated in building the iOS application using `Swift` and the Android SDK using `Kotlin`.
+          - I have also participated in the release of <a href="https://apps.apple.com/us/app/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-mcdonalds-japan/id413618155">McD conversion App</a> which has more than <strong>17M user</strong>.
 
-          <br>- <strong>Plexure SDK</strong> : An SDK to support Plexure clients , e.g., <strong>McD World Wide</strong>, <strong>White Castle in the US</strong>, <strong>IKEA in KSA</strong> and <strong>7-Eleven in Australia</strong> to use the Loyalty platform and deliver personalized offers, ads, and promotions to more than <strong>100 million</strong> end-user depending on there preference and location.
-          - Adding new features/Fixes using <strong>Objective-c</strong> and <strong>Java</strong>.
+          `2-` <strong>Plexure SDK</strong> : An SDK to support Plexure clients , e.g., <strong>McD World Wide</strong>, <strong>White Castle in the US</strong>, <strong>IKEA in KSA</strong> and <strong>7-Eleven in Australia</strong> to use the Loyalty platform and deliver personalized offers, ads, and promotions to more than <strong>100 million</strong> end-user depending on there preference and location.
+          - Adding new features/Fixes using `Objective-c` and `Java`.
           - Supporting customer tickets and dealing with clients from <strong>all over the world</strong> with <strong>different languages</strong> and <strong>timezones</strong>.
-          - Releasing fully tested binaries and deploy them as <strong>Pods</strong> and <strong>dynamic/static</strong> libraries.
+          - Releasing fully tested binaries and deploy them as `Pods` and `dynamic/static` libraries.
+
+          `3-` As part of being <strong>Principal Mobile Engineer</strong> in plexure, I was assisting different teams who build mobile applications, APIs, and `the innovation` team also I was part of the `POC` we have built on `Flutter` for QRS App  (Quick Restaurant Service).
 
     - role: Senior iOS Developer
       time: 05/2016 - 09/2018
@@ -96,7 +95,7 @@ experiences:
       company: MIMV LLC, Al Rehab, Egypt
       companyLink : http://www.mimv.co
       details: |
-        Applications I developed as apart of the team :
+        MIMV is the first company in the middle east to build iOS Apps for Arabic content, I have participated in building below apps:
           - <a href="https://apps.apple.com/app/arabic-dictionary-qamws-ay/id485534181" target="_blank"  >Arabic Dictionary ( Bilingual )</a>
           - <a href="https://apps.apple.com/app/alahadyth-ghyr-alshyht-almntshrt/id419746550" target="_blank"  >Weak Hadiths</a>
           - <a href="https://apps.apple.com/app/arabic-names-alasma/id405843449"  >Arabic Names ( Bilingual )</a>
@@ -128,9 +127,9 @@ projects:
         link: 
         tagline:
 
-      - title: The first place-prize for "Safeer Student" The best e-government mobile application in Arab and gulf countries 
+      - title: The first place-prize for `Safeer Student` The best e-government mobile application in Arab and gulf countries 
         link:
-        tagline: "Reference: <a href='http://www.menofia.edu.eg' target='_blank'  >http://www.alriyadh.com/1019713</a>" 
+        tagline: "Reference: <a href=' http://www.alriyadh.com/1019713' target='_blank'  >http://www.alriyadh.com/1019713</a>" 
 
 publications:
     title: Education
